@@ -11,3 +11,4 @@ function dd($value) {
 function isUrl($value) {
   return $_SERVER['REQUEST_URI'] === $value;
 }
+  
